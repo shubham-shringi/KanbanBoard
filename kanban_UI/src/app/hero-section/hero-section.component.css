@@ -1,0 +1,27 @@
+.hero-unit{
+    display: flex;
+
+    height:750px;
+    width: 96%;
+}
+
+.hero-content{
+    margin: auto 0;
+    margin-left: 120px;
+}
+
+.hero-content h1{
+    font-weight: bolder;
+    font-size: xx-large; 
+}
+
+.hero-content p { 
+    width: 90%;
+}
+
+
+
+button{
+    margin-left: 3%;
+    border-radius: 50px;
+}

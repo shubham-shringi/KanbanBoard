@@ -1,0 +1,29 @@
+#buttons {
+  position: absolute;
+  right: 20px;
+  padding: 10px;
+}
+button {
+  margin-left: 20px;
+  border-radius: 50px;
+
+}
+
+
+mat-icon {
+  padding-left: 32%;
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(248, 247, 247);
+}
+
+
+@media (max-width: 380px) {
+  a h1,
+  #icons{
+    display: none;
+  }
+}
